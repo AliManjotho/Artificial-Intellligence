@@ -1,4 +1,4 @@
-# Artificial-Intellligence
+# Artificial-Intellligence CSC-411
 
 ![model](./assets/1.png)
 ![model](./assets/2.png)
